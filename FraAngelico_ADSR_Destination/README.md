@@ -1,0 +1,1 @@
+Added ADSR destination choise to the Standuino FraAngelico firmware. When in ADSR edit mode, simply use the "LFO Destination" knob to set the ADSR destination. Originally the ADSR envelope modulates only the volume.
